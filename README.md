@@ -7,7 +7,7 @@ Setup Instructions
 Google Colab Users
 (Benefit: Free limited GPU inside Google Colab)
 
-    Save the required files to your Google Drive:
+    Save the required files to your Google Drive:  (MY GOOGLE DRIVE ACCESS: https://drive.google.com/drive/folders/1avwm4DoNFJk6mGvDsoo4Y9R2yg8-Wi1B?usp=sharing  : needed for accessing best.pt)
 
         requirements.txt
 
