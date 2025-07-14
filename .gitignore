@@ -1,0 +1,18 @@
+# Colab mount points
+/content/drive/
+
+
+
+# Large media files
+
+player_tracking_output.avi
+15sec_input_720p.mp4
+
+
+# log files
+
+player_tracking_output.csv
+
+
+# Model weights
+best.pt
