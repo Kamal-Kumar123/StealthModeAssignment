@@ -1,0 +1,11 @@
+ultralytics==8.1.33
+torch==2.1.0
+torchvision==0.16.0
+numpy==1.26.4
+opencv-python-headless==4.9.0.80
+loguru
+filterpy==1.4.5
+cython==3.0.10
+scikit-learn==1.4.1.post1
+tqdm==4.66.1
+matplotlib==3.7.5
